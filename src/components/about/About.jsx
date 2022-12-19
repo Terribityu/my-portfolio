@@ -40,10 +40,8 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Hello, My name is John Rey D. Sto Domingo, i am currently taking Bachelor of Science of Information Technology in Central Luzon State University.
+            I'm currently striving to be a fullstack developer with a willingness to enhance my skills.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
